@@ -2,7 +2,6 @@
 
 ![Profile views](https://gpvc.arturio.dev/samirjosue)
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=samirjosue.samirjosue)
-[![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/samirjosue)
 
 <div size='20px'> Hi! My name is Samir Josué. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
