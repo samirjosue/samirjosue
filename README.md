@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-[![Linkedin Badge](https://img.shields.io/badge/-Samir Soares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samir-soares-21521a95/)](https://www.linkedin.com/in/samir-soares-21521a95/)
+[![Linkedin Badge](https://img.shields.io/badge/-SamirSoares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samir-soares-21521a95/)](https://www.linkedin.com/in/samir-soares-21521a95/)
 [![Instagram Badge](https://img.shields.io/badge/-@samirjosue-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/samirjosue/)](https://www.instagram.com/samirjosue/)
 [![Gmail Badge](https://img.shields.io/badge/-samirjosue@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samirjosue@gmail.com)](mailto:samirjosue@gmail.com)
 
