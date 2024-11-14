@@ -8,7 +8,7 @@
 
 - 💼 I’m currently working as Software Engineer at @DafitiGroup
 - 👨🏻‍🎓 I'm Bachelor of Computer Science
-- 👨🏻‍💻 Main skills: JS, TypeScript, Node.js, PHP, Laravel, CodeIgniter, HTML, CSS
+- 👨🏻‍💻 Main skills: Golang, JS, TypeScript, Node.js, PHP, Laravel, CodeIgniter
 - 📚 I also like developing for mobile, currently studying Flutter and React. 
 <!--
 **samirjosue/samirjosue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
